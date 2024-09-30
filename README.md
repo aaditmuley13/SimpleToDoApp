@@ -1,0 +1,1 @@
+# SimpleToDoApp is a simple command-line-based to-do list application that allows you to manage your tasks with ease. It includes basic functions such as adding, deleting, and marking tasks as completed.
